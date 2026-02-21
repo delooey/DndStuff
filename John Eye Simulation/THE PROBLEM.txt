@@ -1,0 +1,29 @@
+THE PROBLEM
+
+Minimum Age Increase: 3 Years
+Maximum Age Increase : 3,600 Years
+
+1/6 Chance of Having to Attune again
+Age Range: 3 - 3,600
+
+Con Saves:
+
+Best Case: Survive 1 dc10 Con Save
+Worst: Survive 120 dc120 Con Save
+
+John Eye:
+
+Rewarded Elf(Firbolg can live to 500, is larger so weight) Barbarian
+Lucky (From Rewarded)
+Feat used to boost con to 20
+
+Can live up to 750 / 1000 years
+
+Test Results:
+Attunement
+22 * (1d4 * 10) = Weight 510 pounds
+22 * 3d10 Years = Age 550 Years
+
+CAN SURVIVE THE INSTA-DEATH ROLLS VIA LUCKY AND + 8 CON SAVE
+
+GUIDANCE / OTHER PARTY BUFFS NOT ACCOUNTED FOR

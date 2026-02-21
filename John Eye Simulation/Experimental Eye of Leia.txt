@@ -1,0 +1,28 @@
+Experimental Eye of Leia
+
+Once a day while attuned can cast fly.
+Once a day while attuned can cast summon celestial.
+
+Roll 1d6 1-5 can't use fly again until long rest.
+Roll 1d6 1-5 can't use summon celestial until long rest.
+
+While attuned weight drops by 1d4 * 10 pounds
+
+Each time you attune age by 3d10 years
+Succeed on DC 10 Con Save or instantly turn into Wight under Elliott control sworn to protect eye until death.
+
+Side Effects:
+Roll 1d6 when casting, on a 1 you lose attunement
+50% Chance weight loss is permanent
+
+Miss a Day you restart
+
+Must cast at least one spell a day for a year
+
+Attunement
+22 * (1d4 * 10) Weight 510 pounds
+22 * 3d10 Years Age 550 Years
+
+
+
+

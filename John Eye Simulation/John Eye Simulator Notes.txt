@@ -1,0 +1,7 @@
+Days(d) = 120
+Losing attunement(l) = (d) * (FIGURE OUT WAYS TO ROLL DICE)
+
+Attunement total(x) = 1 + (Number of 1/6 chances hit)
+x(3d10) = Age Gained
+x(1d4*10) = Weight lost (50% chance that weight is permanently removed)
+
